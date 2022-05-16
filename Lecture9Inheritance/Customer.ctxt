@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=id\ bal
+comment1.target=Customer(int,\ double)
+comment2.params=
+comment2.target=void\ display()
+comment3.params=i
+comment3.target=void\ display(int)
+numComments=4

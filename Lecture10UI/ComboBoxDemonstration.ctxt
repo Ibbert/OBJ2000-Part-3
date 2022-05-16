@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ComboBoxDemonstration
+comment1.params=
+comment1.target=ComboBoxDemonstration()
+comment2.params=arguments
+comment2.target=void\ main(java.lang.String[])
+comment3.params=check
+comment3.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+numComments=4
